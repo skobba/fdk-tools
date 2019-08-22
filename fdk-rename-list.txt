@@ -1,0 +1,85 @@
+color-blue-light color-primary-lighter
+color-blue-dark color-link
+color-blue color-primary
+
+color-dark-1 color-neutral-darkest
+color-dark-2 color-neutral-dark
+
+color-grey-1 color-neutral-light
+color-grey-2 color-neutral-lighter
+color-grey-3 color-neutral-lightest
+
+color-grey-4 color-neutral-lightest2
+
+color-green-1 color-success
+color-green-2 color-success-lighter
+
+color-yellow-1 color-warning
+color-yellow-2 color-warning-lighter
+color-red-1 color-danger
+color-red-2 color-danger-lighter
+
+fdk-color-blue-dark fdk-color-primary
+fdk-bg-color-blue-dark fdk-bg-color-primary
+fdk-color-blue fdk-color-primary-light
+fdk-bg-color-blue fdk-bg-color-primary-light
+fdk-color-blue-light fdk-color-primary-lighter
+fdk-bg-color-blue-light fdk-bg-color-primary-lighter
+
+fdk-color-dark-1 fdk-color-neutral-darkest
+fdk-bg-color-dark-1 fdk-bg-color-neutral-darkest
+fdk-color-dark-2 fdk-color-neutral-dark
+fdk-bg-color-dark-2 fdk-bg-color-neutral-dark
+
+fdk-color-grey-1 fdk-color-neutral-light
+fdk-bg-color-grey-1 dk-bg-color-neutral-light
+
+fdk-color-grey-2 fdk-color-neutral-lighter
+fdk-bg-color-grey-2 fdk-bg-neutral-lighter
+
+fdk-color-grey-3 fdk-color-neutral-lightest
+fdk-bg-color-grey-3 fdk-bg-neutral-lightest
+
+fdk-color-grey-4 fdk-color-neutral-lightest
+fdk-bg-color-grey-4 fdk-bg-neutral-lightest
+
+fdk-color-green-1 fdk-color-success
+fdk-bg-color-green-1 fdk-bg-color-success
+
+fdk-color-green-2 fdk-color-success-lighter
+fdk-bg-color-green-2 fdk-bg-color-success-lighter
+
+fdk-color-yellow-1 fdk-color-warning
+fdk-bg-color-yellow-1 fdk-bg-color-warning
+
+fdk-color-yellow-2 fdk-color-warning-lighter
+fdk-bg-color-yellow-2 fdk-bg-color-warning-lighter
+
+fdk-color-red-1 fdk-color-danger
+fdk-bg-color-red-1 fdk-bg-color-danger
+
+fdk-color-red-2 fdk-color-danger-lighter
+fdk-bg-color-red-2 fdk-bg-color-danger-lighter
+
+color0 color-white
+color1 color-neutral-darkest
+color2 color-neutral-darkest2
+color3 color-neutral-dark
+color4 color-neutral-light
+color5 color-neutral-lighter
+color6 color-neutral-lightest
+
+color-cta color-primary0
+color-cta2 color-primary
+color-cta2 color-primary2
+color-cta3 color-primary-light2
+color-cta4 color-primary-lighter2
+
+color-green color-success
+color-green2 color-success-lighter
+color-yellow color-warning
+color-yellow2 color-warning-lighter
+
+color-red color-danger
+color-red2 color-danger-lighter
+color-red3 color-danger-lightest
