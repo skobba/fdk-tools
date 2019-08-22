@@ -6,11 +6,9 @@ if [ "$#" -ne 4 ]; then
     exit 0
 fi
 
-# echo path: $1
-# echo filtype: $2
-# echo searchtext: $2
-# echo replacetext: $3
+echo path: $1
+echo filtype: $2
+echo searchtext: $3
+echo replacetext: $4
 
-
-find $1 -name "*.scss" -type f -exec sed -i '' "s/$3/$4/g" {} +
-
+find $1 -name $2 -type f -exec sed -i '' "s/$3/$4/g" {} +
