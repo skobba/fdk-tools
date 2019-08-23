@@ -15,7 +15,7 @@ regex4 = r'(background-color|color)'
 
 regex5 = r'/(.*) are (.*?) .*/gm'
 
-# Virker i regex101.com for python
+# Virker i https://regex101.com/ for python
 regex6 = r'\.(.*)\{\n\W*(background-color|color)\:\W\$(.*)\;\W\}'
 
 line = "Cats are smarter than dogs"
